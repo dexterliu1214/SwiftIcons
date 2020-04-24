@@ -25,5 +25,6 @@ let package = Package(
             name: "SwiftIcons",
             dependencies: [],
             path: "Source"
+        ),
     ]
 )
